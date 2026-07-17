@@ -9,6 +9,7 @@ paths:
 ## 命名規則
 
 - 調査ログ: `research_notes/YYYY-MM-DD-<slug>.md`（slug は半角英数とハイフン）
+  - Deep Research の**最終報告書**は `YYYY-MM-DD-report-<slug>.md` とし、ワーカーの中間サマリログ（`-report-` を含まない）と区別する
 - 確立知識: `knowledge_base/topics/<slug>.md`
 - ソース定義: `knowledge_base/sources/domains/<slug>.md`
 

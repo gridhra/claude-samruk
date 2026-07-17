@@ -1,0 +1,8 @@
+# ローカル専用のClaude設定（リポジトリに含めない）
+CLAUDE.local.md
+
+# ローカル専用のClaude Code設定（リポジトリに含めない）
+.claude/settings.local.json
+
+# macOS が自動生成するメタデータファイル
+.DS_Store
